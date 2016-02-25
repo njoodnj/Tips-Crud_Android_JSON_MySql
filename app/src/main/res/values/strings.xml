@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tips-Crud_Android_JSON_MySql</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_koneksi">Koneksi</string>
+    <string name="title_activity_biodata">Biodata</string>
+</resources>
